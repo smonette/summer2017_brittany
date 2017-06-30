@@ -1,6 +1,6 @@
 # Hey Brittany!
 
-We're happy to have you joining us this summer! If you have some downtime, I'll add some front-end exercises that you can do to practice.
+We're happy to have you joining us this summer! Here's a repo of mimi-projects you can work on whenever you hit some downtime. I'll add more as the summer continues.
 
 
 ## Goals
